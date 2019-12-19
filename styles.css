@@ -1,0 +1,36 @@
+h1 {
+  margin: 30px;
+  font-family: 'Cutive Mono', monospace;
+  font-size: 5rem;
+}
+
+p {
+  font-size: 1rem;
+  font-family: 'Cutive Mono', monospace;
+}
+
+img {
+  width: 80%;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+#play-again {
+  margin: 50px auto 50px auto;
+}
+
+.btn {
+  display: none;
+  margin-top: 60px;
+  width: 150px;
+  font-family: 'Cutive Mono', monospace;
+}
